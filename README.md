@@ -34,4 +34,6 @@
 
 ![Ventana de Preguntas](https://github.com/user-attachments/assets/86382c56-cea4-4c07-87e6-16b49b1f74b2)
 
+# Nota de ApiKey
+
 En caso de que el **API Key** se termine, desempaqueta el proyecto, ve al archivo `popup.js` y en la variable `API_KEY` ingresa una nueva clave. Puedes obtener una nueva en [https://aistudio.google.com/](https://aistudio.google.com/).
