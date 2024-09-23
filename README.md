@@ -33,3 +33,5 @@
 - Luego, se abrirá una ventana donde podrás escribir una pregunta sobre el texto seleccionado, además de poder ingresar un nombre para que el modelo te llame.
 
 ![Ventana de Preguntas](https://github.com/user-attachments/assets/86382c56-cea4-4c07-87e6-16b49b1f74b2)
+
+En caso de que el **API Key** se termine, desempaqueta el proyecto, ve al archivo `popup.js` y en la variable `API_KEY` ingresa una nueva clave. Puedes obtener una nueva en [https://aistudio.google.com/](https://aistudio.google.com/).
